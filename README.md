@@ -1,2 +1,3 @@
 # Hello-World
-Testing some stuff. 
+
+// I AINT DOING SHIT TODAY
